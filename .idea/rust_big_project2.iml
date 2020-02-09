@@ -7,7 +7,12 @@
       <sourceFolder url="file://$MODULE_DIR$/game/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/game/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/game/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gameMemberRender/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gameMemberRender/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gameMemberRender/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gameMemberRender/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/gameMemberRender/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
